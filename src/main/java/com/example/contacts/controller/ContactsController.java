@@ -12,7 +12,6 @@ import com.example.contacts.model.*;
 
 
   @RestController
-
   @CrossOrigin
   @RequestMapping("apis/employees/contacts")
 
